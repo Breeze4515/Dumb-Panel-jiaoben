@@ -1,7 +1,7 @@
 /**
- * 魔方云 IP 网关 - 青龙面板自动签到脚本
+ * 魔方云 滑块验证码求解网关平台 - 青龙面板自动签到脚本
  *
- * 适用站点：https://mf.yinxiaoxing.dpdns.org/
+ * 适用站点：https://mf.yinxiaoxing.dpdns.org/?invite=9c427a68
  * 功能：
  *   1. 通过环境变量 MF_COOKIE 携带登录 Cookie 鉴权
  *   2. GET /api/me         —— 读取 账户余额 / 累计求解次数 / 累计消费
